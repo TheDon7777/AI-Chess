@@ -10,7 +10,7 @@ Extra text is ignored via a regex, and invalid moves trigger retries or skipping
 Auto-Skip After 5 Invalid Moves
 
 In normal mode (Model vs. Model), if a model tries 5 invalid moves, it skips to the other model immediately.
-Training Mode (You vs. Models) with Old Prompting Logic
+Training Mode (You vs. Models) 
 
 You always move Black in training mode.
 If you provide an invalid/illegal move, the game ends (no re-prompting).
